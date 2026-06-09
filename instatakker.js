@@ -9,6 +9,15 @@
 // @grant        none
 // ==/UserScript==
 
+<p align="center">
+  <img src="assets/instatakker-logo.png" alt="InstaTakker Logo" width="320">
+</p>
+
+<h1 align="center">InstaTakker</h1>
+
+<p align="center">
+  Instagram userscript for unfollowing, post likes, and comment engagement.
+</p>
 (function() {
   'use strict';
 
