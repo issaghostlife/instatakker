@@ -1,4 +1,12 @@
-# InstaTakker
+<p align="center">
+  <img src="assets/instatakker-logo.png" alt="InstaTakker Logo" width="320">
+</p>
+
+<h1 align="center">InstaTakker</h1>
+
+<p align="center">
+  Instagram userscript for unfollowing, post likes, and comment engagement.
+</p># InstaTakker
 
 **InstaTakker** is a browser userscript for Instagram that adds a floating control panel for unfollowing accounts, liking posts, and liking comments.
 
